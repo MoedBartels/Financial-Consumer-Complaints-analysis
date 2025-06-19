@@ -45,16 +45,16 @@ The main Issues for each product can be identified with the '+' icon in the prod
 
 ## Recommendations
 Based on the analysis of consumer complaints submitted to the CFPB regarding Bank of America's financial products and services from 2017 to 2023, the following recommendations are proposed to support strategic decision-making and enhance customer experience:
-1.	Focus on Improving High-Complaint Product Areas
-o	 Checking/Savings Accounts and Credit Cards recorded the highest number of complaints. Investigate the most frequent issues within these products and prioritize improvements in those areas, such as fee transparency, account access, and unauthorized transactions.
-2.	Strengthen Support Around Peak Complaint Periods
-o	April consistently recorded the highest volume of complaints. It is recommended to review internal policies, marketing campaigns, or system changes occurring around this period that may contribute to increased customer dissatisfaction. Additional staffing or proactive communication strategies may be needed during this time.
-3.	Sustain and Monitor Timely Response Performance
-o	With a 94% timely response rate, Bank of America is performing well in addressing complaints promptly. However, it is essential to monitor this KPI regularly to maintain service standards and investigate the remaining 6% to understand and resolve delays.
-4.	Enhance Complaint Resolution Communication
-o	The most common resolution type is “Closed with explanation.” To reduce repeat complaints and improve customer satisfaction, consider enhancing the clarity and personalization of explanations provided to consumers.
-5.	Regional Monitoring and Outreach
-o	California showed the highest number of complaints. This may be due to its population size, but it also signals an opportunity to explore regional patterns in service delivery and customer concerns. Targeted outreach or customer education campaigns in high-complaint states may reduce issues and boost customer trust.
-6.	Investigate Submission Channels
-o	Analyse trends in the “Submitted via” channel to understand if certain platforms (e.g., phone, web, referrals) are associated with complaint types or slower response rates. Optimizing these channels may enhance accessibility and responsiveness.
+1.	Focus on Improving High-Complaint Product Areas: 
+Checking/Savings Accounts and Credit Cards recorded the highest number of complaints. Investigate the most frequent issues within these products and prioritize improvements in those areas, such as fee transparency, account access, and unauthorized transactions.
+2.	Strengthen Support Around Peak Complaint Periods: 
+April consistently recorded the highest volume of complaints. It is recommended to review internal policies, marketing campaigns, or system changes occurring around this period that may contribute to increased customer dissatisfaction. Additional staffing or proactive communication strategies may be needed during this time.
+3.	Sustain and Monitor Timely Response Performance: 
+With a 94% timely response rate, Bank of America is performing well in addressing complaints promptly. However, it is essential to monitor this KPI regularly to maintain service standards and investigate the remaining 6% to understand and resolve delays.
+4.	Enhance Complaint Resolution Communication: 
+The most common resolution type is “Closed with explanation.” To reduce repeat complaints and improve customer satisfaction, consider enhancing the clarity and personalization of explanations provided to consumers.
+5.	Regional Monitoring and Outreach: 
+California showed the highest number of complaints. This may be due to its population size, but it also signals an opportunity to explore regional patterns in service delivery and customer concerns. Targeted outreach or customer education campaigns in high-complaint states may reduce issues and boost customer trust.
+6.	Investigate Submission Channels: 
+Analyse trends in the “Submitted via” channel to understand if certain platforms (e.g., phone, web, referrals) are associated with complaint types or slower response rates. Optimizing these channels may enhance accessibility and responsiveness.
 
